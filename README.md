@@ -35,6 +35,9 @@ I'm committed to continuous learning and delivering impactful solutions in a col
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-000000?style=flat&logo=svelte&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 #### 🧩 Backend (Previously Worked)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)

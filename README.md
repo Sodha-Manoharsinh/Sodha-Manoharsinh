@@ -5,8 +5,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/fd/52/a6/fd52a6f69a512fbbcc804cb68d2074b6.gif" />
 
-- 🌐 From: **Vandhay, Deshalpar, Gujarat, India 🇮🇳**
-- 📞 Contact: **+91 9313229480**
+- 🌐 From: **Bhuj, Kutch, Gujarat, India 🇮🇳**
 - 📬 Email: **[manoharsinh2004@gmail.com](mailto:manoharsinh2004@gmail.com)**
 - 🎯 Career Focus: **Frontend Development (React, Next.js, TypeScript, Tailwind)**  
 - 🔭 Currently working on: **Samaj Issue** — a social problem reporting platform  

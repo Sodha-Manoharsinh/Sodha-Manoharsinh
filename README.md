@@ -8,7 +8,7 @@
 - 🌐 From: **Bhuj, Kutch, Gujarat, India 🇮🇳**
 - 📬 Email: **[manoharsinh2004@gmail.com](mailto:manoharsinh2004@gmail.com)**
 - 🎯 Career Focus: **Frontend Development (React, Next.js, TypeScript, Tailwind)**  
-- 🔭 Currently working on: **Samaj Issue** — a social problem reporting platform  
+- 🔭 Currently learning: NodeJs, Express, Mongodb
 - 💡 Past experience in backend: **Python, Flask, Supabase, REST APIs**  
 - 📚 Always learning: **Advanced frontend frameworks & UI/UX practices**
 

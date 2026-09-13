@@ -1,12 +1,12 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Manoharsinh Sodha</h1>
-<h3 align="center">Junior Frontend Developer | Full-Stack Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Junior Frontend Developer | Full-Stack | Lifelong Learner</h3>
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/fd/52/a6/fd52a6f69a512fbbcc804cb68d2074b6.gif" />
 
 - 🌐 From: **Bhuj, Kutch, Gujarat, India 🇮🇳**
-- 📬 Email: **[manoharsinh2004@gmail.com](mailto:manoharsinh2004@gmail.com)**
+- 📬 Email: **[manoharsinh2004@gmail.com](mailto:manoharsinh.c.sodha@gmail.com)**
 - 🎯 Career Focus: **Frontend Development (React, Next.js, TypeScript, Tailwind)**  
 - 🔭 Currently learning: NodeJs, Express, Mongodb
 - 💡 Past experience in backend: **Python, Flask, Supabase, REST APIs**  
